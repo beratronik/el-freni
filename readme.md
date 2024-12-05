@@ -5,7 +5,7 @@ Bu proje, Arduino ve 3D baskı kullanarak bir simulasyon oyununa özel bir el fr
 
 <img src="img/tb.png" width="500">
 
-Video izlemek için [YouTube'da Proje Videomuzu izleyin](https://www.youtube.com/watch?v=PAkyEOsQQE8)
+Videoyu izlemek için [Tıklayın](https://www.youtube.com/watch?v=PAkyEOsQQE8)
 
 ## Malzeme Listesi
 - **Arduino Leonardo**
